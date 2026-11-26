@@ -1,0 +1,10 @@
+{
+  "cloudflare-hyperdrive/stage": {
+    "hyperdrive_id": "00000000000000000000000000000001",
+    "hyperdrive_name": "stg-natural-language-postgres-stage"
+  },
+  "cloudflare-hyperdrive/prod": {
+    "hyperdrive_id": "00000000000000000000000000000001",
+    "hyperdrive_name": "prod-natural-language-postgres-prod"
+  }
+}
